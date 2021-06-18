@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import SwiftUICharts
+//import SwiftUICharts
 import Combine
 
 struct ContentView: View {
